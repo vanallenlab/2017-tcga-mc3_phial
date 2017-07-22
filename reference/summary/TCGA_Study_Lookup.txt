@@ -1,0 +1,831 @@
+# Source: https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables/tissue-source-site-codes
+# Source: https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables/tcga-study-abbreviations
+Study Abbreviation	Study Name	TSS Code	Source Site	BCR
+LAML	Acute Myeloid Leukemia	5J	Cureline	NCH
+LAML	Acute Myeloid Leukemia	AB	Washington University	NCH
+LAML	Acute Myeloid Leukemia	GP	MD Anderson	NCH
+LAML	Acute Myeloid Leukemia	IJ	Christiana Healthcare	NCH
+LAML	Acute Myeloid Leukemia	PH	Gundersen Lutheran	NCH
+LAML	Acute Myeloid Leukemia	Q4	Emory University	NCH
+LAML	Acute Myeloid Leukemia	Y3	University of New Mexico	NCH
+ACC	Adrenocortical carcinoma	OR	University of Michigan	NCH
+ACC	Adrenocortical carcinoma	OU	Roswell Park	NCH
+ACC	Adrenocortical carcinoma	P6	Translational Genomics Research Institute	NCH
+ACC	Adrenocortical carcinoma	PA	University of Minnesota	NCH
+ACC	Adrenocortical carcinoma	PK	University Health Network	NCH
+BLCA	Bladder Urothelial Carcinoma	2F	Erasmus MC	NCH
+BLCA	Bladder Urothelial Carcinoma	4Z	Barretos Cancer Hospital	NCH
+BLCA	Bladder Urothelial Carcinoma	5N	University Hospital Erlangen	NCH
+BLCA	Bladder Urothelial Carcinoma	BL	Christiana Healthcare	NCH
+BLCA	Bladder Urothelial Carcinoma	BT	University of Pittsburgh	NCH
+BLCA	Bladder Urothelial Carcinoma	C4	Indivumed	NCH
+BLCA	Bladder Urothelial Carcinoma	CF	ILSBio	NCH
+BLCA	Bladder Urothelial Carcinoma	CU	UNC	NCH
+BLCA	Bladder Urothelial Carcinoma	DK	Memorial Sloan Kettering	NCH
+BLCA	Bladder Urothelial Carcinoma	E5	Roswell Park	NCH
+BLCA	Bladder Urothelial Carcinoma	E7	Asterand	NCH
+BLCA	Bladder Urothelial Carcinoma	FD	BLN - University Of Chicago	NCH
+BLCA	Bladder Urothelial Carcinoma	FJ	BLN - Baylor	NCH
+BLCA	Bladder Urothelial Carcinoma	FT	BLN - University of Miami	NCH
+BLCA	Bladder Urothelial Carcinoma	G2	MD Anderson	NCH
+BLCA	Bladder Urothelial Carcinoma	GC	International Genomics Consortium	NCH
+BLCA	Bladder Urothelial Carcinoma	GD	ABS - IUPUI	NCH
+BLCA	Bladder Urothelial Carcinoma	GU	BLN - UT Southwestern Medical Center at Dallas	NCH
+BLCA	Bladder Urothelial Carcinoma	GV	BLN - Cleveland Clinic	NCH
+BLCA	Bladder Urothelial Carcinoma	H4	Medical College of Georgia	NCH
+BLCA	Bladder Urothelial Carcinoma	HQ	Ontario Institute for Cancer Research (OICR)	NCH
+BLCA	Bladder Urothelial Carcinoma	K4	ABS - Lahey Clinic	NCH
+BLCA	Bladder Urothelial Carcinoma	KQ	Cornell Medical College	NCH
+BLCA	Bladder Urothelial Carcinoma	LC	Hartford Hospital	NCH
+BLCA	Bladder Urothelial Carcinoma	LT	Gundersen Lutheran Health System	NCH
+BLCA	Bladder Urothelial Carcinoma	MV	University of Minnesota	NCH
+BLCA	Bladder Urothelial Carcinoma	PQ	University of Colorado Denver	NCH
+BLCA	Bladder Urothelial Carcinoma	R3	CHI-Penrose Colorado	NCH
+BLCA	Bladder Urothelial Carcinoma	S5	University of Oklahoma HSC	NCH
+BLCA	Bladder Urothelial Carcinoma	SY	Mayo Clinic Arizona	NCH
+BLCA	Bladder Urothelial Carcinoma	UY	University of California San Francisco	NCH
+BLCA	Bladder Urothelial Carcinoma	X5	Institute of Human Virology Nigeria	NCH
+BLCA	Bladder Urothelial Carcinoma	XF	University of Southern California	NCH
+BLCA	Bladder Urothelial Carcinoma	YC	Spectrum Health	NCH
+BLCA	Bladder Urothelial Carcinoma	YF	University of Puerto Rico	NCH
+BLCA	Bladder Urothelial Carcinoma	ZF	University of Sheffield	NCH
+LGG	Brain Lower Grade Glioma	CS	Thomas Jefferson University	IGC
+LGG	Brain Lower Grade Glioma	DB	Mayo Clinic - Rochester	IGC
+LGG	Brain Lower Grade Glioma	DH	University of Florida	IGC
+LGG	Brain Lower Grade Glioma	DU	Henry Ford Hospital	IGC
+LGG	Brain Lower Grade Glioma	E1	Duke	IGC
+LGG	Brain Lower Grade Glioma	EZ	UNC	IGC
+LGG	Brain Lower Grade Glioma	F6	Asterand	IGC
+LGG	Brain Lower Grade Glioma	FG	Case Western	IGC
+LGG	Brain Lower Grade Glioma	FN	International Genomics Consortium	IGC
+LGG	Brain Lower Grade Glioma	HK	Fox Chase	IGC
+LGG	Brain Lower Grade Glioma	HT	Case Western - St Joes	IGC
+LGG	Brain Lower Grade Glioma	HW	MSKCC	IGC
+LGG	Brain Lower Grade Glioma	IK	Christiana Healthcare	IGC
+LGG	Brain Lower Grade Glioma	KT	Hartford	IGC
+LGG	Brain Lower Grade Glioma	P5	Cureline	NCH
+LGG	Brain Lower Grade Glioma	QH	Fondazione-Besta	NCH
+LGG	Brain Lower Grade Glioma	R8	MD Anderson	NCH
+LGG	Brain Lower Grade Glioma	RY	University of California San Francisco	NCH
+LGG	Brain Lower Grade Glioma	S9	Dept of Neurosurgery at University of Heidelberg	NCH
+LGG	Brain Lower Grade Glioma	TM	The University of New South Wales	NCH
+LGG	Brain Lower Grade Glioma	TQ	University of Sao Paulo	NCH
+LGG	Brain Lower Grade Glioma	VM	Huntsman Cancer Institute	NCH
+LGG	Brain Lower Grade Glioma	VV	John Wayne Cancer Center	NCH
+LGG	Brain Lower Grade Glioma	VW	Northwestern University	NCH
+LGG	Brain Lower Grade Glioma	W9	University of Kansas	NCH
+LGG	Brain Lower Grade Glioma	WH	Greenville Health System	NCH
+LGG	Brain Lower Grade Glioma	WY	Johns Hopkins	NCH
+BRCA	Breast invasive carcinoma	3C	Columbia University	NCH
+BRCA	Breast invasive carcinoma	3J	Carle Cancer Center	NCH
+BRCA	Breast invasive carcinoma	4H	Proteogenex, Inc.	NCH
+BRCA	Breast invasive carcinoma	5L	University of Sao Paulo	NCH
+BRCA	Breast invasive carcinoma	5T	Holy Cross	NCH
+BRCA	Breast invasive carcinoma	A1	UCSF	NCH
+BRCA	Breast invasive carcinoma	A2	Walter Reed	NCH
+BRCA	Breast invasive carcinoma	A7	Christiana Healthcare	NCH
+BRCA	Breast invasive carcinoma	A8	Indivumed	NCH
+BRCA	Breast invasive carcinoma	AC	International Genomics Consortium	NCH
+BRCA	Breast invasive carcinoma	AN	Cureline	NCH
+BRCA	Breast invasive carcinoma	AO	MSKCC	NCH
+BRCA	Breast invasive carcinoma	AQ	UNC	NCH
+BRCA	Breast invasive carcinoma	AR	Mayo	NCH
+BRCA	Breast invasive carcinoma	B6	Duke	NCH
+BRCA	Breast invasive carcinoma	BH	University of Pittsburgh	NCH
+BRCA	Breast invasive carcinoma	C8	ILSBio	NCH
+BRCA	Breast invasive carcinoma	D8	Greater Poland Cancer Center	NCH
+BRCA	Breast invasive carcinoma	E2	Roswell Park	NCH
+BRCA	Breast invasive carcinoma	E9	Asterand	NCH
+BRCA	Breast invasive carcinoma	EW	University of Miami	NCH
+BRCA	Breast invasive carcinoma	GI	ABS - IUPUI	NCH
+BRCA	Breast invasive carcinoma	GM	MD Anderson	NCH
+BRCA	Breast invasive carcinoma	HN	Ontario Institute for Cancer Research (OICR)	NCH
+BRCA	Breast invasive carcinoma	JL	ABS - Research Metrics Pakistan	NCH
+BRCA	Breast invasive carcinoma	LD	Hartford Hospital	NCH
+BRCA	Breast invasive carcinoma	LL	Candler	NCH
+BRCA	Breast invasive carcinoma	LQ	Gundersen Lutheran Health System	NCH
+BRCA	Breast invasive carcinoma	MS	University of Minnesota	NCH
+BRCA	Breast invasive carcinoma	OK	Mount Sinai School of Medicine	NCH
+BRCA	Breast invasive carcinoma	OL	University of Chicago	NCH
+BRCA	Breast invasive carcinoma	PE	Fox Chase	NCH
+BRCA	Breast invasive carcinoma	PL	Institute of Human Virology Nigeria	NCH
+BRCA	Breast invasive carcinoma	S3	Albert Einstein Medical Center	NCH
+BRCA	Breast invasive carcinoma	TV	Wake Forest University	NCH
+BRCA	Breast invasive carcinoma	UL	Boston Medical Center	NCH
+BRCA	Breast invasive carcinoma	UU	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH
+BRCA	Breast invasive carcinoma	V7	Medical College of Georgia	NCH
+BRCA	Breast invasive carcinoma	W8	Greenville Health System	NCH
+BRCA	Breast invasive carcinoma	WT	University of Kansas	NCH
+BRCA	Breast invasive carcinoma	XX	Spectrum Health	NCH
+BRCA	Breast invasive carcinoma	Z7	John Wayne Cancer Center	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	2W	University of New Mexico	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	4J	Proteogenex, Inc.	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	BI	University of Pittsburgh	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	C5	Medical College of Wisconsin	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	DG	Ontario Institute for Cancer Research	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	DR	University of Hawaii	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	DS	Cedars Sinai	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	EA	Asterand	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	EK	Gynecologic Oncology Group	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	EX	University of North Carolina	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	FU	International Genomics Consortium	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	GH	ABS - IUPUI	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	HG	Roswell Park	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	HM	Christiana Healthcare	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	IR	Memorial Sloan Kettering	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	JW	BLN - Baylor	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	JX	Washington University	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	LP	ILSBIO	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	LS	Gundersen Lutheran Health System	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	MA	MD Anderson Cancer Center	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	MU	University of Minnesota	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	MY	Montefiore Medical Center	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	PN	Institute of Human Virology Nigeria	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	Q1	University of Oklahoma HSC	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	QV	Instituto Nacional de Cancerologia	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	R2	CHI-Penrose Colorado	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	RA	Candler	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	UC	University of Washington	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	VS	Barretos Cancer Hospital	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	WL	University of Kansas	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	XS	University of Sao Paulo	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	ZJ	NCI HRE Branch	NCH
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	ZX	University of Alabama	NCH
+CHOL	Cholangiocarcinoma	3X	Alberta Health Services	NCH
+CHOL	Cholangiocarcinoma	4G	Sapienza University of Rome	NCH
+CHOL	Cholangiocarcinoma	5A	Wake Forest University	NCH
+CHOL	Cholangiocarcinoma	W5	Mayo Clinic Rochester	NCH
+CHOL	Cholangiocarcinoma	W6	UCSF	NCH
+CHOL	Cholangiocarcinoma	W7	Garvan Institute of Medical Research	NCH
+CHOL	Cholangiocarcinoma	WD	Emory University	NCH
+CHOL	Cholangiocarcinoma	YR	Barretos Cancer Hospital	NCH
+CHOL	Cholangiocarcinoma	ZD	ILSbio	NCH
+CHOL	Cholangiocarcinoma	ZH	University of North Carolina	NCH
+CHOL	Cholangiocarcinoma	ZK	University of New Mexico	NCH
+CHOL	Cholangiocarcinoma	ZU	Spectrum Health	NCH
+LCML	Chronic Myelogenous Leukemia	6H	Test For lcml	NCH
+COAD	Colon adenocarcinoma	3L	Albert Einstein Medical Center	NCH
+COAD	Colon adenocarcinoma	4N	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH
+COAD	Colon adenocarcinoma	4T	Duke University	NCH
+COAD	Colon adenocarcinoma	5M	University of Sao Paulo	NCH
+COAD	Colon adenocarcinoma	A6	Christiana Healthcare	IGC
+COAD	Colon adenocarcinoma	AA	Indivumed	IGC
+COAD	Colon adenocarcinoma	AD	International Genomics Consortium	IGC
+COAD	Colon adenocarcinoma	AM	Cureline	IGC
+COAD	Colon adenocarcinoma	AU	St. Joseph's Medical Center-(MD)	IGC
+COAD	Colon adenocarcinoma	AY	UNC	IGC
+COAD	Colon adenocarcinoma	AZ	University of Pittsburgh	IGC
+COAD	Colon adenocarcinoma	CA	ILSBio	IGC
+COAD	Colon adenocarcinoma	CK	Harvard	IGC
+COAD	Colon adenocarcinoma	CM	MSKCC	IGC
+COAD	Colon adenocarcinoma	D5	Greater Poland Cancer Center	IGC
+COAD	Colon adenocarcinoma	DM	University Of Michigan	NCH
+COAD	Colon adenocarcinoma	F4	Asterand	IGC
+COAD	Colon adenocarcinoma	G4	Roswell Park	IGC
+COAD	Colon adenocarcinoma	NH	Candler	NCH
+COAD	Colon adenocarcinoma	QG	BLN - Baylor	NCH
+COAD	Colon adenocarcinoma	QL	University of Chicago	NCH
+COAD	Colon adenocarcinoma	R1	CHI-Penrose Colorado	NCH
+COAD	Colon adenocarcinoma	RU	Northwestern University	NCH
+COAD	Colon adenocarcinoma	SK	St. Joseph's Hospital AZ	NCH
+COAD	Colon adenocarcinoma	SS	Medical College of Georgia	NCH
+COAD	Colon adenocarcinoma	T9	Molecular Response	NCH
+COAD	Colon adenocarcinoma	VK	Institute of Human Virology Nigeria	NCH
+COAD	Colon adenocarcinoma	WS	University of Kansas	NCH
+COAD	Colon adenocarcinoma	WU	Wake Forest University	NCH
+ESCA	Esophageal carcinoma	2H	Erasmus MC	NCH
+ESCA	Esophageal carcinoma	2M	Technical University of Munich	NCH
+ESCA	Esophageal carcinoma	IC	University of Pittsburgh	NCH
+ESCA	Esophageal carcinoma	IG	Asterand	NCH
+ESCA	Esophageal carcinoma	JY	University Health Network	NCH
+ESCA	Esophageal carcinoma	JZ	University of Rochester	NCH
+ESCA	Esophageal carcinoma	KA	ABS - Lahey Clinic	NCH
+ESCA	Esophageal carcinoma	KH	Memorial Sloan Kettering	NCH
+ESCA	Esophageal carcinoma	L5	University of Michigan	NCH
+ESCA	Esophageal carcinoma	L7	Christiana Care	NCH
+ESCA	Esophageal carcinoma	LN	ILSBIO	NCH
+ESCA	Esophageal carcinoma	M9	Ontario Institute for Cancer Research (OICR)	NCH
+ESCA	Esophageal carcinoma	Q9	Emory University	NCH
+ESCA	Esophageal carcinoma	R6	MD Anderson Cancer Center	NCH
+ESCA	Esophageal carcinoma	RE	Peter MacCallum Cancer Center	NCH
+ESCA	Esophageal carcinoma	S8	ABS - IUPUI	NCH
+ESCA	Esophageal carcinoma	V5	Duke University	NCH
+ESCA	Esophageal carcinoma	VR	Barretos Cancer Hospital	NCH
+ESCA	Esophageal carcinoma	X8	St. Joseph's Hospital Arizona	NCH
+ESCA	Esophageal carcinoma	XB	Albert Einstein Medical Center	NCH
+ESCA	Esophageal carcinoma	XP	University of Sao Paulo	NCH
+ESCA	Esophageal carcinoma	Z6	Cureline	NCH
+ESCA	Esophageal carcinoma	ZR	Tayside Tissue Bank	NCH
+GBM	Glioblastoma multiforme	02	MD Anderson Cancer Center	IGC
+GBM	Glioblastoma multiforme	06	Henry Ford Hospital	IGC
+GBM	Glioblastoma multiforme	08	UCSF	IGC
+GBM	Glioblastoma multiforme	12	Duke	IGC
+GBM	Glioblastoma multiforme	14	Emory University	IGC
+GBM	Glioblastoma multiforme	15	Mayo Clinic - Rochester	IGC
+GBM	Glioblastoma multiforme	16	Toronto Western Hospital	IGC
+GBM	Glioblastoma multiforme	19	Case Western	IGC
+GBM	Glioblastoma multiforme	26	University of Florida	IGC
+GBM	Glioblastoma multiforme	27	Milan - Italy, Fondazione IRCCS Instituto Neuroligico C. Besta	IGC
+GBM	Glioblastoma multiforme	28	Cedars Sinai	IGC
+GBM	Glioblastoma multiforme	32	St. Joseph's Hospital (AZ)	IGC
+GBM	Glioblastoma multiforme	41	Christiana Healthcare	IGC
+GBM	Glioblastoma multiforme	4W	University of Miami	NCH
+GBM	Glioblastoma multiforme	65	Roswell Park	IGC
+GBM	Glioblastoma multiforme	74	Swedish Neurosciences	IGC
+GBM	Glioblastoma multiforme	76	Thomas Jefferson University	IGC
+GBM	Glioblastoma multiforme	81	CHI-Penrose Colorado	IGC
+GBM	Glioblastoma multiforme	87	International Genomics Consortium	IGC
+GBM	Glioblastoma multiforme	OX	University of North Carolina	NCH
+GBM	Glioblastoma multiforme	RR	St. Joseph's Hospital AZ	NCH
+HNSC	Head and Neck squamous cell carcinoma	4P	Duke University	NCH
+HNSC	Head and Neck squamous cell carcinoma	BA	UNC	IGC
+HNSC	Head and Neck squamous cell carcinoma	BB	Johns Hopkins	IGC
+HNSC	Head and Neck squamous cell carcinoma	C9	ILSBio	NCH
+HNSC	Head and Neck squamous cell carcinoma	CN	University of Pittsburgh	IGC
+HNSC	Head and Neck squamous cell carcinoma	CQ	University Health Network, Toronto	IGC
+HNSC	Head and Neck squamous cell carcinoma	CR	Vanderbilt University	IGC
+HNSC	Head and Neck squamous cell carcinoma	CV	MD Anderson Cancer Center	IGC
+HNSC	Head and Neck squamous cell carcinoma	CX	Medical College of Georgia	IGC
+HNSC	Head and Neck squamous cell carcinoma	D6	Greater Poland Cancer Center	IGC
+HNSC	Head and Neck squamous cell carcinoma	DQ	University Of Michigan	IGC
+HNSC	Head and Neck squamous cell carcinoma	F7	Asterand	IGC
+HNSC	Head and Neck squamous cell carcinoma	H7	ABS - IUPUI	IGC
+HNSC	Head and Neck squamous cell carcinoma	HD	International Genomics Consortium	IGC
+HNSC	Head and Neck squamous cell carcinoma	HL	Fox Chase	IGC
+HNSC	Head and Neck squamous cell carcinoma	IQ	University of Miami	IGC
+HNSC	Head and Neck squamous cell carcinoma	JA	ABS - Research Metrics Pakistan	IGC
+HNSC	Head and Neck squamous cell carcinoma	KU	Hartford	IGC
+HNSC	Head and Neck squamous cell carcinoma	MT	University of Minnesota	NCH
+HNSC	Head and Neck squamous cell carcinoma	MZ	Montefiore Medical Center	NCH
+HNSC	Head and Neck squamous cell carcinoma	NM	Cambridge BioSource	NCH
+HNSC	Head and Neck squamous cell carcinoma	P3	Fred Hutchinson	NCH
+HNSC	Head and Neck squamous cell carcinoma	QK	Emory University - Winship Cancer Inst.	NCH
+HNSC	Head and Neck squamous cell carcinoma	R7	Gundersen Lutheran Health System	NCH
+HNSC	Head and Neck squamous cell carcinoma	RH	BLN - Baylor	NCH
+HNSC	Head and Neck squamous cell carcinoma	RS	Memorial Sloan Kettering Cancer Center	NCH
+HNSC	Head and Neck squamous cell carcinoma	ST	Global Bioclinical-Moldova	NCH
+HNSC	Head and Neck squamous cell carcinoma	T2	St. University of Colorado Denver	NCH
+HNSC	Head and Neck squamous cell carcinoma	T3	Molecular Response	NCH
+HNSC	Head and Neck squamous cell carcinoma	TG	Global BioClinical - Georgia	NCH
+HNSC	Head and Neck squamous cell carcinoma	TN	Ohio State University	NCH
+HNSC	Head and Neck squamous cell carcinoma	UF	Barretos Cancer Hospital	NCH
+HNSC	Head and Neck squamous cell carcinoma	UP	Boston Medical Center	NCH
+HNSC	Head and Neck squamous cell carcinoma	WA	University of Schleswig-Holstein	NCH
+KICH	Kidney Chromophobe	KL	MSKCC	IGC
+KICH	Kidney Chromophobe	KM	NCI Urologic Oncology Branch	IGC
+KICH	Kidney Chromophobe	KN	Harvard	IGC
+KICH	Kidney Chromophobe	KO	MD Anderson Cancer Center	IGC
+KICH	Kidney Chromophobe	NP	International Genomics Consortium	NCH
+KICH	Kidney Chromophobe	UW	University of North Carolina	NCH
+KIRC	Kidney renal clear cell carcinoma	3Z	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH
+KIRC	Kidney renal clear cell carcinoma	6D	University of Oklahoma HSC	NCH
+KIRC	Kidney renal clear cell carcinoma	A3	International Genomics Consortium	IGC
+KIRC	Kidney renal clear cell carcinoma	AK	Fox Chase	IGC
+KIRC	Kidney renal clear cell carcinoma	AS	St. Joseph's Medical Center-(MD)	IGC
+KIRC	Kidney renal clear cell carcinoma	B0	University of Pittsburgh	IGC
+KIRC	Kidney renal clear cell carcinoma	B2	Christiana Healthcare	IGC
+KIRC	Kidney renal clear cell carcinoma	B4	Cureline	IGC
+KIRC	Kidney renal clear cell carcinoma	B8	UNC	IGC
+KIRC	Kidney renal clear cell carcinoma	BP	MSKCC	IGC
+KIRC	Kidney renal clear cell carcinoma	CB	ILSBio	IGC
+KIRC	Kidney renal clear cell carcinoma	CJ	MD Anderson Cancer Center	IGC
+KIRC	Kidney renal clear cell carcinoma	CW	Mayo Clinic - Rochester	IGC
+KIRC	Kidney renal clear cell carcinoma	CZ	Harvard	IGC
+KIRC	Kidney renal clear cell carcinoma	DV	NCI Urologic Oncology Branch	IGC
+KIRC	Kidney renal clear cell carcinoma	EU	CHI-Penrose Colorado	IGC
+KIRC	Kidney renal clear cell carcinoma	G6	Roswell Park	IGC
+KIRC	Kidney renal clear cell carcinoma	GK	ABS - IUPUI	IGC
+KIRC	Kidney renal clear cell carcinoma	MM	BLN - Baylor	NCH
+KIRC	Kidney renal clear cell carcinoma	MW	University of Miami	NCH
+KIRC	Kidney renal clear cell carcinoma	T7	Molecular Response	NCH
+KIRC	Kidney renal clear cell carcinoma	V8	Medical College of Georgia	NCH
+KIRC	Kidney renal clear cell carcinoma	WM	University of Kansas	NCH
+KIRP	Kidney renal papillary cell carcinoma	2K	Greenville Health System	NCH
+KIRP	Kidney renal papillary cell carcinoma	2Z	Moffitt Cancer Center	NCH
+KIRP	Kidney renal papillary cell carcinoma	4A	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH
+KIRP	Kidney renal papillary cell carcinoma	5P	University Hospital Erlangen	NCH
+KIRP	Kidney renal papillary cell carcinoma	A4	International Genomics Consortium	IGC
+KIRP	Kidney renal papillary cell carcinoma	AL	Fox Chase	IGC
+KIRP	Kidney renal papillary cell carcinoma	AT	St. Joseph's Medical Center-(MD)	IGC
+KIRP	Kidney renal papillary cell carcinoma	B1	University of Pittsburgh	IGC
+KIRP	Kidney renal papillary cell carcinoma	B3	Christiana Healthcare	IGC
+KIRP	Kidney renal papillary cell carcinoma	B9	UNC	IGC
+KIRP	Kidney renal papillary cell carcinoma	BQ	MSKCC	IGC
+KIRP	Kidney renal papillary cell carcinoma	DW	NCI Urologic Oncology Branch	IGC
+KIRP	Kidney renal papillary cell carcinoma	DZ	Mayo Clinic - Rochester	IGC
+KIRP	Kidney renal papillary cell carcinoma	EV	CHI-Penrose Colorado	IGC
+KIRP	Kidney renal papillary cell carcinoma	F9	Asterand	IGC
+KIRP	Kidney renal papillary cell carcinoma	G7	Roswell Park	IGC
+KIRP	Kidney renal papillary cell carcinoma	GL	ABS - IUPUI	IGC
+KIRP	Kidney renal papillary cell carcinoma	HE	Ontario Institute for Cancer Research (OICR)	IGC
+KIRP	Kidney renal papillary cell carcinoma	IA	Cleveland Clinic	IGC
+KIRP	Kidney renal papillary cell carcinoma	IZ	ABS - Lahey Clinic	IGC
+KIRP	Kidney renal papillary cell carcinoma	J7	ILSBio	IGC
+KIRP	Kidney renal papillary cell carcinoma	KV	Hartford	IGC
+KIRP	Kidney renal papillary cell carcinoma	L8	University of Miami	NCH
+KIRP	Kidney renal papillary cell carcinoma	MH	BLN - Baylor	NCH
+KIRP	Kidney renal papillary cell carcinoma	O9	Saint Mary's Health Care	NCH
+KIRP	Kidney renal papillary cell carcinoma	P4	MD Anderson Cancer Center	NCH
+KIRP	Kidney renal papillary cell carcinoma	PJ	Gundersen Lutheran	NCH
+KIRP	Kidney renal papillary cell carcinoma	Q2	University of Oklahoma HSC	NCH
+KIRP	Kidney renal papillary cell carcinoma	SX	Mayo Clinic Arizona	NCH
+KIRP	Kidney renal papillary cell carcinoma	UN	Boston Medical Center	NCH
+KIRP	Kidney renal papillary cell carcinoma	UZ	University of California San Francisco	NCH
+KIRP	Kidney renal papillary cell carcinoma	V9	Medical College of Georgia	NCH
+KIRP	Kidney renal papillary cell carcinoma	WN	University of Kansas	NCH
+KIRP	Kidney renal papillary cell carcinoma	Y8	Spectrum Health	NCH
+LIHC	Liver hepatocellular carcinoma	2V	University of California San Diego	NCH
+LIHC	Liver hepatocellular carcinoma	2Y	Moffitt Cancer Center	NCH
+LIHC	Liver hepatocellular carcinoma	3K	Boston Medical Center	NCH
+LIHC	Liver hepatocellular carcinoma	4R	Duke University	NCH
+LIHC	Liver hepatocellular carcinoma	5C	Cureline	NCH
+LIHC	Liver hepatocellular carcinoma	5R	Proteogenex, Inc	NCH
+LIHC	Liver hepatocellular carcinoma	BC	UNC	NCH
+LIHC	Liver hepatocellular carcinoma	BD	University of Pittsburgh	NCH
+LIHC	Liver hepatocellular carcinoma	BW	St. Joseph's Medical Center-(MD)	NCH
+LIHC	Liver hepatocellular carcinoma	CC	ILSBio	NCH
+LIHC	Liver hepatocellular carcinoma	DD	Mayo Clinic - Rochester	NCH
+LIHC	Liver hepatocellular carcinoma	ED	Asterand	NCH
+LIHC	Liver hepatocellular carcinoma	EP	Christiana Healthcare	NCH
+LIHC	Liver hepatocellular carcinoma	ES	University of Florida	NCH
+LIHC	Liver hepatocellular carcinoma	FV	International Genomics Consortium	NCH
+LIHC	Liver hepatocellular carcinoma	G3	Alberta Health Services	NCH
+LIHC	Liver hepatocellular carcinoma	GJ	ABS - IUPUI	NCH
+LIHC	Liver hepatocellular carcinoma	HP	Ontario Institute for Cancer Research (OICR)	NCH
+LIHC	Liver hepatocellular carcinoma	K7	ABS - Lahey Clinic	NCH
+LIHC	Liver hepatocellular carcinoma	KR	University Of Michigan	NCH
+LIHC	Liver hepatocellular carcinoma	LG	Hartford Hospital	NCH
+LIHC	Liver hepatocellular carcinoma	MI	BLN - Baylor	NCH
+LIHC	Liver hepatocellular carcinoma	MR	University of Minnesota	NCH
+LIHC	Liver hepatocellular carcinoma	NI	Roswell Park	NCH
+LIHC	Liver hepatocellular carcinoma	O8	Saint Mary's Health Care	NCH
+LIHC	Liver hepatocellular carcinoma	PD	Fox Chase	NCH
+LIHC	Liver hepatocellular carcinoma	QA	Emory University	NCH
+LIHC	Liver hepatocellular carcinoma	RC	University of Utah	NCH
+LIHC	Liver hepatocellular carcinoma	RG	Montefiore Medical Center	NCH
+LIHC	Liver hepatocellular carcinoma	T1	St. Joseph's Hospital Arizona	NCH
+LIHC	Liver hepatocellular carcinoma	UB	UCSF	NCH
+LIHC	Liver hepatocellular carcinoma	UV	Capital Biosciences	NCH
+LIHC	Liver hepatocellular carcinoma	WJ	Greenville Health System	NCH
+LIHC	Liver hepatocellular carcinoma	WQ	University of Kansas	NCH
+LIHC	Liver hepatocellular carcinoma	WX	Yale University	NCH
+LIHC	Liver hepatocellular carcinoma	XR	University of Sao Paulo	NCH
+LIHC	Liver hepatocellular carcinoma	YA	Spectrum Health	NCH
+LIHC	Liver hepatocellular carcinoma	ZP	Medical College of Wisconsin	NCH
+LIHC	Liver hepatocellular carcinoma	ZS	Tayside Tissue Bank	NCH
+LUAD	Lung adenocarcinoma	05	Indivumed	IGC
+LUAD	Lung adenocarcinoma	17	Washington University	IGC
+LUAD	Lung adenocarcinoma	35	Cureline	IGC
+LUAD	Lung adenocarcinoma	38	UNC	IGC
+LUAD	Lung adenocarcinoma	44	Christiana Healthcare	IGC
+LUAD	Lung adenocarcinoma	49	Johns Hopkins	IGC
+LUAD	Lung adenocarcinoma	4B	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH
+LUAD	Lung adenocarcinoma	50	University of Pittsburgh	IGC
+LUAD	Lung adenocarcinoma	53	University of Miami	IGC
+LUAD	Lung adenocarcinoma	55	International Genomics Consortium	IGC
+LUAD	Lung adenocarcinoma	62	Thoraxklinik at University Hospital Heidelberg	IGC
+LUAD	Lung adenocarcinoma	64	Fox Chase	IGC
+LUAD	Lung adenocarcinoma	67	St Joseph's Medical Center (MD)	IGC
+LUAD	Lung adenocarcinoma	69	Washington University - Cleveland Clinic	IGC
+LUAD	Lung adenocarcinoma	71	ILSBio	IGC
+LUAD	Lung adenocarcinoma	73	Roswell Park	IGC
+LUAD	Lung adenocarcinoma	75	Ontario Institute for Cancer Research (OICR)	IGC
+LUAD	Lung adenocarcinoma	78	Prince Charles Hospital	IGC
+LUAD	Lung adenocarcinoma	80	Ontario Institute for Cancer Research (OICR)/Ottawa	IGC
+LUAD	Lung adenocarcinoma	83	CHI-Penrose Colorado	IGC
+LUAD	Lung adenocarcinoma	86	Asterand	IGC
+LUAD	Lung adenocarcinoma	91	ABS - IUPUI	IGC
+LUAD	Lung adenocarcinoma	93	Washington University - St. Louis	IGC
+LUAD	Lung adenocarcinoma	95	Washington University - Emory	IGC
+LUAD	Lung adenocarcinoma	97	Washington University - NYU	IGC
+LUAD	Lung adenocarcinoma	99	Washington University - Alabama	IGC
+LUAD	Lung adenocarcinoma	J2	ABS - Lahey Clinic	IGC
+LUAD	Lung adenocarcinoma	L4	Gundersen Lutheran Health System	IGC
+LUAD	Lung adenocarcinoma	L9	Candler	IGC
+LUAD	Lung adenocarcinoma	ME	University of Minnesota	NCH
+LUAD	Lung adenocarcinoma	MN	BLN - Baylor	NCH
+LUAD	Lung adenocarcinoma	MP	Washington University - Mayo Clinic	NCH
+LUAD	Lung adenocarcinoma	NB	Washington University - CHUV	NCH
+LUAD	Lung adenocarcinoma	NJ	Washington University - Rush University	NCH
+LUAD	Lung adenocarcinoma	O1	Washington University - CALGB	NCH
+LUAD	Lung adenocarcinoma	S2	Albert Einstein Medical Center	NCH
+LUAD	Lung adenocarcinoma	T6	Molecular Response	NCH
+LUSC	Lung squamous cell carcinoma	11	MD Anderson Cancer Center	IGC
+LUSC	Lung squamous cell carcinoma	18	Princess Margaret Hospital (Canada)	IGC
+LUSC	Lung squamous cell carcinoma	21	Fox Chase Cancer Center	IGC
+LUSC	Lung squamous cell carcinoma	22	Mayo Clinic - Rochester	IGC
+LUSC	Lung squamous cell carcinoma	33	Johns Hopkins	IGC
+LUSC	Lung squamous cell carcinoma	34	University of Pittsburgh	IGC
+LUSC	Lung squamous cell carcinoma	37	Cureline	IGC
+LUSC	Lung squamous cell carcinoma	39	MSKCC	IGC
+LUSC	Lung squamous cell carcinoma	43	Christiana Healthcare	IGC
+LUSC	Lung squamous cell carcinoma	46	St. Joseph's Medical Center (MD)	IGC
+LUSC	Lung squamous cell carcinoma	51	UNC	IGC
+LUSC	Lung squamous cell carcinoma	52	University of Miami	IGC
+LUSC	Lung squamous cell carcinoma	56	International Genomics Consortium	IGC
+LUSC	Lung squamous cell carcinoma	58	Thoraxklinik at University Hospital Heidelberg	IGC
+LUSC	Lung squamous cell carcinoma	60	Roswell Park	IGC
+LUSC	Lung squamous cell carcinoma	63	Ontario Institute for Cancer Research	IGC
+LUSC	Lung squamous cell carcinoma	66	Indivumed	IGC
+LUSC	Lung squamous cell carcinoma	68	Washington University - Cleveland Clinic	IGC
+LUSC	Lung squamous cell carcinoma	6A	University of Kansas	NCH
+LUSC	Lung squamous cell carcinoma	70	ILSBio	IGC
+LUSC	Lung squamous cell carcinoma	77	Prince Charles Hospital	IGC
+LUSC	Lung squamous cell carcinoma	79	Ontario Institute for Cancer Research (OICR)/Ottawa	IGC
+LUSC	Lung squamous cell carcinoma	82	CHI-Penrose Colorado	IGC
+LUSC	Lung squamous cell carcinoma	85	Asterand	IGC
+LUSC	Lung squamous cell carcinoma	90	ABS - IUPUI	IGC
+LUSC	Lung squamous cell carcinoma	92	Washington University - St. Louis	IGC
+LUSC	Lung squamous cell carcinoma	94	Washington University - Emory	IGC
+LUSC	Lung squamous cell carcinoma	96	Washington University - NYU	IGC
+LUSC	Lung squamous cell carcinoma	98	Washington University - Alabama	IGC
+LUSC	Lung squamous cell carcinoma	J1	ABS - Lahey Clinic	IGC
+LUSC	Lung squamous cell carcinoma	L3	Gundersen Lutheran Health System	IGC
+LUSC	Lung squamous cell carcinoma	LA	Candler	IGC
+LUSC	Lung squamous cell carcinoma	MF	University of Minnesota	NCH
+LUSC	Lung squamous cell carcinoma	ML	BLN - Baylor	NCH
+LUSC	Lung squamous cell carcinoma	NC	Washington University - CHUV	NCH
+LUSC	Lung squamous cell carcinoma	NK	Washington University - Rush University	NCH
+LUSC	Lung squamous cell carcinoma	O2	Washington University - CALGB	NCH
+LUSC	Lung squamous cell carcinoma	OC	Saint Mary's Health Care	NCH
+LUSC	Lung squamous cell carcinoma	UJ	Boston Medical Center	NCH
+LUSC	Lung squamous cell carcinoma	WG	Greenville Health System	NCH
+LUSC	Lung squamous cell carcinoma	XC	Albert Einstein Medical Center	NCH
+LUSC	Lung squamous cell carcinoma	ZE	Spectrum Health	NCH
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	FA	Asterand	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	FF	SingHealth	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	FM	International Genomics Consortium	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	G8	Roswell Park	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	GR	University of Nebraska Medical Center (UNMC)	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	GS	Fundacio Clinic per a la Recerca Biomedica	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	GZ	BC Cancer Agency	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	H3	ABS - IUPUI	IGC
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	PB	University of Minnesota	NCH
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	RQ	St. Joseph's Hospital AZ	NCH
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	VB	Global BioClinical - Georgia	NCH
+MESO	Mesothelioma	3H	MD Anderson Cancer Center	NCH
+MESO	Mesothelioma	3U	University of Chicago	NCH
+MESO	Mesothelioma	LK	University of Pittsburgh	NCH
+MESO	Mesothelioma	MQ	Washington University - NYU	NCH
+MESO	Mesothelioma	NQ	International Genomics Consortium	NCH
+MESO	Mesothelioma	SC	Memorial Sloan Kettering	NCH
+MESO	Mesothelioma	SH	Papworth Hospital	NCH
+MESO	Mesothelioma	TS	University of Pennsylvania	NCH
+MESO	Mesothelioma	UD	University of Western Australia	NCH
+MESO	Mesothelioma	UT	Asbestos Diseases Research Institute	NCH
+MESO	Mesothelioma	XT	Johns Hopkins	NCH
+MESO	Mesothelioma	YS	Barretos Cancer Hospital	NCH
+MESO	Mesothelioma	ZN	Brigham and Women's Hospital Division of Thoracic Surgery	NCH
+MISC	Miscellaneous	OW	International Genomics Consortium	NCH
+OV	Ovarian serous cystadenocarcinoma	01	International Genomics Consortium	IGC
+OV	Ovarian serous cystadenocarcinoma	04	Gynecologic Oncology Group	IGC
+OV	Ovarian serous cystadenocarcinoma	09	UCSF	IGC
+OV	Ovarian serous cystadenocarcinoma	10	MD Anderson Cancer Center	IGC
+OV	Ovarian serous cystadenocarcinoma	13	Memorial Sloan Kettering	IGC
+OV	Ovarian serous cystadenocarcinoma	20	Fox Chase Cancer Center	IGC
+OV	Ovarian serous cystadenocarcinoma	23	Cedars Sinai	IGC
+OV	Ovarian serous cystadenocarcinoma	24	Washington University	IGC
+OV	Ovarian serous cystadenocarcinoma	25	Mayo Clinic - Rochester	IGC
+OV	Ovarian serous cystadenocarcinoma	29	Duke	IGC
+OV	Ovarian serous cystadenocarcinoma	30	Harvard	IGC
+OV	Ovarian serous cystadenocarcinoma	31	Imperial College	IGC
+OV	Ovarian serous cystadenocarcinoma	36	BC Cancer Agency	IGC
+OV	Ovarian serous cystadenocarcinoma	3P	Greenville Health System	NCH
+OV	Ovarian serous cystadenocarcinoma	42	Christiana Healthcare	IGC
+OV	Ovarian serous cystadenocarcinoma	4D	Molecular Response	NCH
+OV	Ovarian serous cystadenocarcinoma	57	International Genomics Consortium	IGC
+OV	Ovarian serous cystadenocarcinoma	59	Roswell Park	IGC
+OV	Ovarian serous cystadenocarcinoma	5X	University of Alabama	NCH
+OV	Ovarian serous cystadenocarcinoma	61	University of Pittsburgh	IGC
+OV	Ovarian serous cystadenocarcinoma	72	NCH	IGC
+OV	Ovarian serous cystadenocarcinoma	OY	University of North Carolina	NCH
+OV	Ovarian serous cystadenocarcinoma	QJ	Mount Sinai School of Medicine	NCH
+OV	Ovarian serous cystadenocarcinoma	R9	Candler	NCH
+OV	Ovarian serous cystadenocarcinoma	VG	Institute of Human Virology Nigeria	NCH
+OV	Ovarian serous cystadenocarcinoma	WR	University of Kansas	NCH
+PAAD	Pancreatic adenocarcinoma	2J	Mayo Clinic	NCH
+PAAD	Pancreatic adenocarcinoma	2L	Technical University of Munich	NCH
+PAAD	Pancreatic adenocarcinoma	2P	University of California San Diego	NCH
+PAAD	Pancreatic adenocarcinoma	3A	Moffitt Cancer Center	NCH
+PAAD	Pancreatic adenocarcinoma	3E	Columbia University	NCH
+PAAD	Pancreatic adenocarcinoma	5Q	Proteogenex, Inc	NCH
+PAAD	Pancreatic adenocarcinoma	F2	UNC	IGC
+PAAD	Pancreatic adenocarcinoma	FB	Asterand	IGC
+PAAD	Pancreatic adenocarcinoma	FQ	Johns Hopkins	IGC
+PAAD	Pancreatic adenocarcinoma	FZ	University of Pittsburgh	IGC
+PAAD	Pancreatic adenocarcinoma	H6	Christiana Healthcare	IGC
+PAAD	Pancreatic adenocarcinoma	H8	ABS - IUPUI	IGC
+PAAD	Pancreatic adenocarcinoma	HV	National Cancer Center Korea	IGC
+PAAD	Pancreatic adenocarcinoma	HZ	International Genomics Consortium	IGC
+PAAD	Pancreatic adenocarcinoma	IB	Alberta Health Services	IGC
+PAAD	Pancreatic adenocarcinoma	KG	Baylor Network	IGC
+PAAD	Pancreatic adenocarcinoma	L1	Hartford	IGC
+PAAD	Pancreatic adenocarcinoma	LB	Candler	IGC
+PAAD	Pancreatic adenocarcinoma	M8	Ontario Institute for Cancer Research (OICR)	NCH
+PAAD	Pancreatic adenocarcinoma	OE	Saint Mary's Health Care	NCH
+PAAD	Pancreatic adenocarcinoma	P9	University of Minnesota	NCH
+PAAD	Pancreatic adenocarcinoma	PZ	ABS - Lahey Clinic	NCH
+PAAD	Pancreatic adenocarcinoma	Q3	University of Oklahoma HSC	NCH
+PAAD	Pancreatic adenocarcinoma	RB	Emory University	NCH
+PAAD	Pancreatic adenocarcinoma	RL	St. Joseph's Hospital AZ	NCH
+PAAD	Pancreatic adenocarcinoma	RV	Northwestern University	NCH
+PAAD	Pancreatic adenocarcinoma	S4	University of Chicago	NCH
+PAAD	Pancreatic adenocarcinoma	SD	MD Anderson	NCH
+PAAD	Pancreatic adenocarcinoma	US	Garvan Institute of Medical Research	NCH
+PAAD	Pancreatic adenocarcinoma	WF	Greenville Health System	NCH
+PAAD	Pancreatic adenocarcinoma	XD	Providence Portland Medical Center	NCH
+PAAD	Pancreatic adenocarcinoma	XN	University of Sao Paulo	NCH
+PAAD	Pancreatic adenocarcinoma	YB	Spectrum Health	NCH
+PAAD	Pancreatic adenocarcinoma	YH	Stanford University	NCH
+PAAD	Pancreatic adenocarcinoma	YY	Roswell Park	NCH
+PAAD	Pancreatic adenocarcinoma	Z5	Cureline	NCH
+PAAD	Pancreatic adenocarcinoma	Z8	John Wayne Cancer Center	NCH
+PAAD	Pancreatic adenocarcinoma	ZW	University of Alabama	NCH
+PCPG	Pheochromocytoma and Paraganglioma	P7	Translational Genomics Research Institute	NCH
+PCPG	Pheochromocytoma and Paraganglioma	P8	University of Pittsburgh	NCH
+PCPG	Pheochromocytoma and Paraganglioma	PR	Roswell Park	NCH
+PCPG	Pheochromocytoma and Paraganglioma	QR	National Institutes of Health	NCH
+PCPG	Pheochromocytoma and Paraganglioma	QT	University of North Carolina	NCH
+PCPG	Pheochromocytoma and Paraganglioma	RM	St. Joseph's Hospital AZ	NCH
+PCPG	Pheochromocytoma and Paraganglioma	RT	Cleveland Clinic Foundation	NCH
+PCPG	Pheochromocytoma and Paraganglioma	RW	Michigan University	NCH
+PCPG	Pheochromocytoma and Paraganglioma	RX	University of Minnesota	NCH
+PCPG	Pheochromocytoma and Paraganglioma	S7	University Hospital Motol	NCH
+PCPG	Pheochromocytoma and Paraganglioma	SA	ABS - IUPUI	NCH
+PCPG	Pheochromocytoma and Paraganglioma	SE	Boston Medical Center	NCH
+PCPG	Pheochromocytoma and Paraganglioma	SP	University Health Network	NCH
+PCPG	Pheochromocytoma and Paraganglioma	SQ	International Genomics Consortium	NCH
+PCPG	Pheochromocytoma and Paraganglioma	SR	Tufts Medical Center	NCH
+PCPG	Pheochromocytoma and Paraganglioma	TT	University of Pennsylvania	NCH
+PCPG	Pheochromocytoma and Paraganglioma	VZ	Albert Einstein Medical Center	NCH
+PCPG	Pheochromocytoma and Paraganglioma	W2	Medical College of Wisconsin	NCH
+PCPG	Pheochromocytoma and Paraganglioma	WB	Erasmus MC	NCH
+PCPG	Pheochromocytoma and Paraganglioma	XG	BLN UT Southwestern Medical Center at Dallas	NCH
+PRAD	Prostate adenocarcinoma	2A	Memorial Sloan Kettering Cancer Center	NCH
+PRAD	Prostate adenocarcinoma	4L	Proteogenex, Inc.	NCH
+PRAD	Prostate adenocarcinoma	4S	Duke University	NCH
+PRAD	Prostate adenocarcinoma	CH	Indivumed	IGC
+PRAD	Prostate adenocarcinoma	EJ	University of Pittsburgh	IGC
+PRAD	Prostate adenocarcinoma	FC	Asterand	IGC
+PRAD	Prostate adenocarcinoma	G9	Roswell Park	IGC
+PRAD	Prostate adenocarcinoma	H9	ABS - IUPUI	IGC
+PRAD	Prostate adenocarcinoma	HC	International Genomics Consortium	IGC
+PRAD	Prostate adenocarcinoma	HI	Fox Chase	IGC
+PRAD	Prostate adenocarcinoma	J4	ABS - Lahey Clinic	IGC
+PRAD	Prostate adenocarcinoma	J9	Melbourne Health	IGC
+PRAD	Prostate adenocarcinoma	KC	Cornell Medical College	IGC
+PRAD	Prostate adenocarcinoma	KK	MD Anderson Cancer Center	IGC
+PRAD	Prostate adenocarcinoma	M7	University of North Carolina	NCH
+PRAD	Prostate adenocarcinoma	MG	BLN - Baylor	NCH
+PRAD	Prostate adenocarcinoma	QU	Harvard Beth Israel	NCH
+PRAD	Prostate adenocarcinoma	SU	Global Bioclinical-Moldova	NCH
+PRAD	Prostate adenocarcinoma	TK	Global BioClinical - Georgia	NCH
+PRAD	Prostate adenocarcinoma	TP	Maine Medical Center	NCH
+PRAD	Prostate adenocarcinoma	UR	Boston Medical Center	NCH
+PRAD	Prostate adenocarcinoma	V1	University of California San Francisco	NCH
+PRAD	Prostate adenocarcinoma	V2	Cleveland Clinic Foundation	NCH
+PRAD	Prostate adenocarcinoma	VN	NCI Urologic Oncology Branch	NCH
+PRAD	Prostate adenocarcinoma	VP	Washington University	NCH
+PRAD	Prostate adenocarcinoma	WW	Wake Forest University	NCH
+PRAD	Prostate adenocarcinoma	X4	Institute for Medical Research	NCH
+PRAD	Prostate adenocarcinoma	XA	University of Minnesota	NCH
+PRAD	Prostate adenocarcinoma	XJ	University of Kansas	NCH
+PRAD	Prostate adenocarcinoma	XK	Mayo Clinic Arizona	NCH
+PRAD	Prostate adenocarcinoma	XQ	University of Sao Paulo	NCH
+PRAD	Prostate adenocarcinoma	Y6	University of Arizona	NCH
+PRAD	Prostate adenocarcinoma	YJ	Stanford University	NCH
+PRAD	Prostate adenocarcinoma	YL	PROCURE Biobank	NCH
+PRAD	Prostate adenocarcinoma	ZG	University Medical Center Hamburg-Eppendorf	NCH
+READ	Rectum adenocarcinoma	6G	University of Sao Paulo	NCH
+READ	Rectum adenocarcinoma	AF	Christiana Healthcare	IGC
+READ	Rectum adenocarcinoma	AG	Indivumed	IGC
+READ	Rectum adenocarcinoma	AH	International Genomics Consortium	IGC
+READ	Rectum adenocarcinoma	BM	UNC	IGC
+READ	Rectum adenocarcinoma	CI	University of Pittsburgh	IGC
+READ	Rectum adenocarcinoma	CL	Harvard	IGC
+READ	Rectum adenocarcinoma	DC	MSKCC	IGC
+READ	Rectum adenocarcinoma	DT	ILSBio	IGC
+READ	Rectum adenocarcinoma	DY	University Of Michigan	NCH
+READ	Rectum adenocarcinoma	EF	Cureline	IGC
+READ	Rectum adenocarcinoma	EI	Greater Poland Cancer Center	IGC
+READ	Rectum adenocarcinoma	F5	Asterand	IGC
+READ	Rectum adenocarcinoma	G5	Roswell Park	IGC
+READ	Rectum adenocarcinoma	VL	Institute of Human Virology Nigeria	NCH
+SARC	Sarcoma	3B	Moffitt Cancer Center	NCH
+SARC	Sarcoma	3R	University of New Mexico	NCH
+SARC	Sarcoma	3W	University of California San Diego	NCH
+SARC	Sarcoma	4Q	Duke University	NCH
+SARC	Sarcoma	4Y	Medical College of Wisconsin	NCH
+SARC	Sarcoma	5D	University of Miami	NCH
+SARC	Sarcoma	DX	Memorial Sloan Kettering	NCH
+SARC	Sarcoma	FX	International Genomics Consortium	NCH
+SARC	Sarcoma	HB	University of North Carolina	NCH
+SARC	Sarcoma	HS	Ontario Institute for Cancer Research (OICR)	NCH
+SARC	Sarcoma	IE	ABS - IUPUI	NCH
+SARC	Sarcoma	IF	University of Texas MD Anderson Cancer Center	NCH
+SARC	Sarcoma	IS	Memorial Sloan Kettering	NCH
+SARC	Sarcoma	IW	Cedars Sinai	NCH
+SARC	Sarcoma	JV	BLN - Baylor	NCH
+SARC	Sarcoma	K1	University of Pittsburgh	NCH
+SARC	Sarcoma	KD	Mount Sinai School of Medicine	NCH
+SARC	Sarcoma	KF	Christiana Healthcare	NCH
+SARC	Sarcoma	LI	Hartford Hospital	NCH
+SARC	Sarcoma	MB	University of Minnesota	NCH
+SARC	Sarcoma	MJ	BLN - Baylor	NCH
+SARC	Sarcoma	MO	ILSBio	NCH
+SARC	Sarcoma	N1	Montefiore Medical Center	NCH
+SARC	Sarcoma	PC	Fox Chase	NCH
+SARC	Sarcoma	PT	Maine Medical Center	NCH
+SARC	Sarcoma	QC	Emory University	NCH
+SARC	Sarcoma	QQ	Roswell Park	NCH
+SARC	Sarcoma	RN	St. Joseph's Hospital AZ	NCH
+SARC	Sarcoma	SG	Cleveland Clinic Foundation	NCH
+SARC	Sarcoma	SI	Washington University St. Louis	NCH
+SARC	Sarcoma	UE	Asterand	NCH
+SARC	Sarcoma	VT	Vanderbilt	NCH
+SARC	Sarcoma	WK	Brigham and Women's Hospital	NCH
+SARC	Sarcoma	WP	University of Kansas	NCH
+SARC	Sarcoma	X2	University of Washington	NCH
+SARC	Sarcoma	X6	University of Iowa	NCH
+SARC	Sarcoma	X9	University of California, Davis	NCH
+SARC	Sarcoma	Y5	University of Arizona	NCH
+SARC	Sarcoma	YW	Albert Einstein Medical Center	NCH
+SARC	Sarcoma	Z3	UCLA	NCH
+SARC	Sarcoma	Z4	Cureline	NCH
+SKCM	Skin Cutaneous Melanoma	3N	Greenville Health System	NCH
+SKCM	Skin Cutaneous Melanoma	BF	Cureline	NCH
+SKCM	Skin Cutaneous Melanoma	D3	MD Anderson	NCH
+SKCM	Skin Cutaneous Melanoma	D9	Greater Poland Cancer Center	NCH
+SKCM	Skin Cutaneous Melanoma	DA	Yale	NCH
+SKCM	Skin Cutaneous Melanoma	EB	Asterand	NCH
+SKCM	Skin Cutaneous Melanoma	EE	University of Sydney	NCH
+SKCM	Skin Cutaneous Melanoma	ER	University of Pittsburgh	NCH
+SKCM	Skin Cutaneous Melanoma	FR	University of North Carolina	NCH
+SKCM	Skin Cutaneous Melanoma	FS	Essen	NCH
+SKCM	Skin Cutaneous Melanoma	FW	International Genomics Consortium	NCH
+SKCM	Skin Cutaneous Melanoma	GF	ABS - IUPUI	NCH
+SKCM	Skin Cutaneous Melanoma	GN	Roswell	NCH
+SKCM	Skin Cutaneous Melanoma	HR	Ontario Institute for Cancer Research (OICR)	NCH
+SKCM	Skin Cutaneous Melanoma	IH	University of Miami	NCH
+SKCM	Skin Cutaneous Melanoma	K8	ABS - Lahey Clinic	NCH
+SKCM	Skin Cutaneous Melanoma	LH	Hartford Hospital	NCH
+SKCM	Skin Cutaneous Melanoma	NS	Gundersen Lutheran Health System	NCH
+SKCM	Skin Cutaneous Melanoma	OD	Saint Mary's Health Care	NCH
+SKCM	Skin Cutaneous Melanoma	QB	Emory University	NCH
+SKCM	Skin Cutaneous Melanoma	RP	St. Joseph's Hospital AZ	NCH
+SKCM	Skin Cutaneous Melanoma	TE	Global BioClinical - Georgia	NCH
+SKCM	Skin Cutaneous Melanoma	TR	Global Bioclinical-Moldova	NCH
+SKCM	Skin Cutaneous Melanoma	W3	John Wayne Cancer Center	NCH
+SKCM	Skin Cutaneous Melanoma	WE	Norfolk and Norwich Hospital	NCH
+SKCM	Skin Cutaneous Melanoma	XV	Capital Biosciences	NCH
+SKCM	Skin Cutaneous Melanoma	YD	Spectrum Health	NCH
+SKCM	Skin Cutaneous Melanoma	YG	University of Puerto Rico	NCH
+SKCM	Skin Cutaneous Melanoma	YN	University of Arizona	NCH
+SKCM	Skin Cutaneous Melanoma	Z2	IDI-IRCCS	NCH
+STAD	Stomach adenocarcinoma	2N	Technical University of Munich	NCH
+STAD	Stomach adenocarcinoma	3M	University of Kansas Medical Center	NCH
+STAD	Stomach adenocarcinoma	B7	Cureline	IGC
+STAD	Stomach adenocarcinoma	BR	Asterand	IGC
+STAD	Stomach adenocarcinoma	CD	ILSBio	IGC
+STAD	Stomach adenocarcinoma	CG	Indivumed	IGC
+STAD	Stomach adenocarcinoma	D7	Greater Poland Cancer Center	IGC
+STAD	Stomach adenocarcinoma	EQ	Christiana Healthcare	IGC
+STAD	Stomach adenocarcinoma	F1	UNC	IGC
+STAD	Stomach adenocarcinoma	FP	International Genomics Consortium	IGC
+STAD	Stomach adenocarcinoma	H1	Medical College of Georgia	IGC
+STAD	Stomach adenocarcinoma	HA	Alberta Health Services	IGC
+STAD	Stomach adenocarcinoma	HF	Ontario Institute for Cancer Research (OICR)	IGC
+STAD	Stomach adenocarcinoma	HH	Fox Chase	IGC
+STAD	Stomach adenocarcinoma	HJ	Fox Chase	IGC
+STAD	Stomach adenocarcinoma	HU	National Cancer Center Korea	IGC
+STAD	Stomach adenocarcinoma	IN	University of Pittsburgh	IGC
+STAD	Stomach adenocarcinoma	IP	ABS - IUPUI	IGC
+STAD	Stomach adenocarcinoma	KB	University Health Network, Toronto	IGC
+STAD	Stomach adenocarcinoma	KZ	Hartford	IGC
+STAD	Stomach adenocarcinoma	MX	MSKCC	NCH
+STAD	Stomach adenocarcinoma	QW	Instituto Nacional de Cancerologia	NCH
+STAD	Stomach adenocarcinoma	R5	MD Anderson Cancer Center	NCH
+STAD	Stomach adenocarcinoma	RD	Peter MacCallum Cancer Center	NCH
+STAD	Stomach adenocarcinoma	SW	Global Bioclinical-Moldova	NCH
+STAD	Stomach adenocarcinoma	TL	Global BioClinical - Georgia	NCH
+STAD	Stomach adenocarcinoma	V6	Duke University	NCH
+STAD	Stomach adenocarcinoma	VA	Alliance	NCH
+STAD	Stomach adenocarcinoma	VQ	Barretos Cancer Hospital	NCH
+STAD	Stomach adenocarcinoma	VX	Northwestern University	NCH
+STAD	Stomach adenocarcinoma	YX	Emory University	NCH
+STAD	Stomach adenocarcinoma	ZA	Candler	NCH
+STAD	Stomach adenocarcinoma	ZQ	Tayside Tissue Bank	NCH
+TGCT	Testicular Germ Cell Tumors	2G	Erasmus MC	NCH
+TGCT	Testicular Germ Cell Tumors	2X	ABS IUPUI	NCH
+TGCT	Testicular Germ Cell Tumors	4K	Proteogenex, Inc.	NCH
+TGCT	Testicular Germ Cell Tumors	S6	Gundersen Lutheran Health System	NCH
+TGCT	Testicular Germ Cell Tumors	SB	Baylor College of Medicine	NCH
+TGCT	Testicular Germ Cell Tumors	SN	BLN - Baylor	NCH
+TGCT	Testicular Germ Cell Tumors	SO	University of Minnesota	NCH
+TGCT	Testicular Germ Cell Tumors	VF	University of Pennsylvania	NCH
+TGCT	Testicular Germ Cell Tumors	W4	University of North Carolina	NCH
+TGCT	Testicular Germ Cell Tumors	WZ	International Genomics Consortium	NCH
+TGCT	Testicular Germ Cell Tumors	X3	Cleveland Clinic Foundation	NCH
+TGCT	Testicular Germ Cell Tumors	XE	University of Southern California	NCH
+TGCT	Testicular Germ Cell Tumors	XY	Spectrum Health	NCH
+TGCT	Testicular Germ Cell Tumors	YU	Barretos Cancer Hospital	NCH
+TGCT	Testicular Germ Cell Tumors	ZM	University of Ulm	NCH
+THYM	Thymoma	1Z	Johns Hopkins	NCH
+THYM	Thymoma	3G	MD Anderson Cancer Center	NCH
+THYM	Thymoma	3Q	Greenville Health Systems	NCH
+THYM	Thymoma	3S	University of New Mexico	NCH
+THYM	Thymoma	3T	Emory University	NCH
+THYM	Thymoma	4V	Hospital Louis Pradel	NCH
+THYM	Thymoma	4X	Yale University	NCH
+THYM	Thymoma	5G	Cleveland Clinic Foundation	NCH
+THYM	Thymoma	5K	St. Joseph's Hospital AZ	NCH
+THYM	Thymoma	5U	Regina Elena National Cancer Institute	NCH
+THYM	Thymoma	5V	Roswell Park	NCH
+THYM	Thymoma	X7	ABS IUPUI	NCH
+THYM	Thymoma	XH	BLN Baylor	NCH
+THYM	Thymoma	XM	MSKCC	NCH
+THYM	Thymoma	XU	University Health Network	NCH
+THYM	Thymoma	YT	Barretos Cancer Hospital	NCH
+THYM	Thymoma	ZB	Thoraxklinik	NCH
+THYM	Thymoma	ZC	University of Mannheim	NCH
+THYM	Thymoma	ZL	Valley Hospital	NCH
+THYM	Thymoma	ZT	International Genomics Consortium	NCH
+THCA	Thyroid carcinoma	4C	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH
+THCA	Thyroid carcinoma	5F	Duke University	NCH
+THCA	Thyroid carcinoma	BJ	University of Pittsburgh	IGC
+THCA	Thyroid carcinoma	CE	ILSBio	IGC
+THCA	Thyroid carcinoma	DE	University of North Carolina	NCH
+THCA	Thyroid carcinoma	DJ	Memorial Sloan Kettering	NCH
+THCA	Thyroid carcinoma	DO	Medical College of Georgia	NCH
+THCA	Thyroid carcinoma	E3	Roswell Park	NCH
+THCA	Thyroid carcinoma	E8	Asterand	NCH
+THCA	Thyroid carcinoma	EL	MD Anderson	NCH
+THCA	Thyroid carcinoma	EM	University Health Network	NCH
+THCA	Thyroid carcinoma	ET	Johns Hopkins	NCH
+THCA	Thyroid carcinoma	FE	Ohio State University	NCH
+THCA	Thyroid carcinoma	FH	CHI-Penrose Colorado	NCH
+THCA	Thyroid carcinoma	FK	Johns Hopkins	NCH
+THCA	Thyroid carcinoma	FY	International Genomics Consortium	NCH
+THCA	Thyroid carcinoma	GE	ABS - IUPUI	NCH
+THCA	Thyroid carcinoma	H2	Christiana Healthcare	NCH
+THCA	Thyroid carcinoma	IM	University of Miami	NCH
+THCA	Thyroid carcinoma	J8	Mayo Clinic	NCH
+THCA	Thyroid carcinoma	KS	University Of Michigan	NCH
+THCA	Thyroid carcinoma	L6	National Institutes of Health	NCH
+THCA	Thyroid carcinoma	MK	BLN - Baylor	NCH
+THCA	Thyroid carcinoma	OJ	Saint Mary's Health Care	NCH
+THCA	Thyroid carcinoma	QD	Emory University	NCH
+UCS	Uterine Carcinosarcoma	N5	MSKCC	NCH
+UCS	Uterine Carcinosarcoma	N6	University of Pittsburgh	NCH
+UCS	Uterine Carcinosarcoma	N7	Washington University	NCH
+UCS	Uterine Carcinosarcoma	N8	University of North Carolina	NCH
+UCS	Uterine Carcinosarcoma	N9	MD Anderson	NCH
+UCS	Uterine Carcinosarcoma	NA	Duke University	NCH
+UCS	Uterine Carcinosarcoma	ND	Cedars Sinai	NCH
+UCS	Uterine Carcinosarcoma	NF	Mayo Clinic - Rochester	NCH
+UCS	Uterine Carcinosarcoma	NG	Roswell Park	NCH
+UCS	Uterine Carcinosarcoma	QM	University of Oklahoma HSC	NCH
+UCS	Uterine Carcinosarcoma	QN	ILSBio	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	2E	University of Kansas Medical Center	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	4E	Molecular Response	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	5B	Medical College of Wisconsin	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	5S	Holy Cross	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	5W	University of Alabama	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	A5	Cedars Sinai	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	AJ	International Genomics Conosrtium	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	AP	MSKCC	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	AW	Cureline	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	AX	Gynecologic Oncology Group	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	B5	Duke	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	BG	University of Pittsburgh	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	BK	Christiana Healthcare	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	BS	University of Hawaii	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	D1	Mayo Clinic	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	DF	Ontario Institute for Cancer Research	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	DI	MD Anderson	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	E6	Roswell Park	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	EC	Asterand	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	EO	University Health Network	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	EY	University of North Carolina	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	FI	Washington University	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	FL	University of Hawaii - Normal Study	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	GG	ABS - IUPUI	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	H5	Medical College of Georgia	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	JU	BLN - Baylor	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	K6	ABS - Lahey Clinic	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	KE	Mount Sinai School of Medicine	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	KJ	University of Miami	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	KP	British Columbia Cancer Agency	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	PG	Montefiore Medical Center	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	QF	BLN - Baylor	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	QS	Candler	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	SJ	Albert Einstein Medical Center	NCH
+UCEC	Uterine Corpus Endometrial Carcinoma	SL	St. Joseph's Hospital AZ	NCH
+UVM	Uveal Melanoma	5H	Retina Consultants Houston	NCH
+UVM	Uveal Melanoma	RZ	Wills Eye Institute	NCH
+UVM	Uveal Melanoma	V3	Cleveland Clinic Foundation	NCH
+UVM	Uveal Melanoma	V4	Institut Curie	NCH
+UVM	Uveal Melanoma	VD	University of Liverpool	NCH
+UVM	Uveal Melanoma	WC	MD Anderson	NCH
+UVM	Uveal Melanoma	YV	MSKCC	NCH
+UVM	Uveal Melanoma	YZ	The Ohio State University	NCH
