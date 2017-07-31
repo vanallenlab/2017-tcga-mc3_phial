@@ -1,13 +1,10 @@
 # Comprehensive Discovery and Characterization of Driver Genes and Mutations in Human Cancers
 
-__TCGA Driver and Gene Essentiality Working Group__
-
+__TCGA Driver and Gene Essentiality Working Group__  
 __Supplement: Exploration of Clinical Actionability in TCGA mc3 with PHIAL and the TARGET database__
 
-Brendan Reardon, Nathanael Moore, Eliezer Van Allen
-
-VanAllen Lab, Dana-Farber Cancer Institute, Broad Institute of MIT & Harvard
-
+Brendan Reardon, Nathanael Moore, Eliezer Van Allen  
+VanAllen Lab, Dana-Farber Cancer Institute, Broad Institute of MIT & Harvard  
 Last updated: 31 July 2017
 
 ## Introduction
