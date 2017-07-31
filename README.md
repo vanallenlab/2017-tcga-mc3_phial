@@ -1,11 +1,9 @@
 # Comprehensive Discovery and Characterization of Driver Genes and Mutations in Human Cancers
-## TCGA Driver and Gene Essentiality Working Group
-
-# Supplement:
-# Exploration of Clinical Actionability in TCGA mc3 with PHIAL and the TARGET database
+__TCGA Driver and Gene Essentiality Working Group__
+__Supplement: Exploration of Clinical Actionability in TCGA mc3 with PHIAL and the TARGET database__
 Brendan Reardon, Nathanael Moore, Eliezer Van Allen
 VanAllen Lab, Dana-Farber Cancer Institute, Broad Institute of MIT & Harvard
-Last updated: 28 July 2017
+Last updated: 31 July 2017
 
 ## Introduction
 Precision heuristics for the alteration landscape (PHIAL)<sup>1</sup> was developed as a heuristic clinical interpretation algorithm to identify clinically actionable or biologically relevant alterations in patient tumor sequencing data. This is accomplished by leveraging curated databases relevant to cancer, such as TARGET and COSMIC. A database of tumor alterations relevant for genomics-driven therapy (TARGET) was co-developed with PHIAL to synthesize the current landscape of precision medicine research, through a strategy of manual curation of literature and the use of expert opinions on the therapeutic and prognostic implications of alterations for patients with cancer. Although PHIAL was developed to study each patient individually, we have applied it to the TCGA mc3 cohort in parallel to gain insight into clinically relevant somatic alterations across TCGA mc3 and individual tissue types. 
