@@ -14,7 +14,7 @@ Precision heuristics for the alteration landscape (PHIAL)<sup>1</sup> was develo
 Single nucleotide variants (SNVs) and insertions and deletions (InDels) were provided to identify clinically relevant somatic alterations within the TCGA mc3 cohort across tissue types. Copy number variations (CNVs) called from GISTIC<sup>2</sup> were provided to identify clinically relevant somatic copy number alterations. 
 
 ## Sample Processing and Methods
-[PHIAL v1.2.0](https://github.com/broadinstitute/phial/tree/v1.2.0) (currently private) was run utilizing [TARGET v1.4.2](https://github.com/vanallenlab/2017-tcga-mc3_phial/blob/master/reference/target/TARGET_db_v1.4.2_05312017.txt) and COSMIC v79<sup>3</sup> on TCGA mc3 SNV and InDels. Code was modified to map the column names of inputs to required fields for PHIAL v1.2.0, which is dependent on Oncotator for annotations and format. 
+[PHIAL v1.2.0](https://github.com/vanallenlab/phial-1.0) was run utilizing [TARGET v1.4.2](https://github.com/vanallenlab/2017-tcga-mc3_phial/blob/master/reference/target/TARGET_db_v1.4.2_05312017.txt) and COSMIC v79<sup>3</sup> on TCGA mc3 SNV and InDels. Code was modified to map the column names of inputs to required fields for PHIAL v1.2.0, which is dependent on Oncotator for annotations and format. 
 
 As a result of input data not being annotated with Oncotator, UniProt region information is not available and thus score adjustments based on variants involving a kinase domain are unavailable for this evaluation. 
 
